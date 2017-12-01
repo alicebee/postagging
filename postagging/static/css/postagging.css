@@ -1,0 +1,50 @@
+h3 {
+    color: #ffffff;
+}
+
+.page-header {
+    background-color: #e85846;
+    margin-top: 15;
+    padding: 20px 20px 20px 50px;
+}
+
+form {
+ width: 100%;
+ height: 300px;
+ margin: auto;
+ position: relative;
+}
+
+textarea {
+     width: 95%;
+     height: 150px;
+}
+
+input {
+ width: 10%;
+ height: 20px;
+}
+
+.container {
+    background-color:#ffffff;
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+
+col-md-4 {
+    background-color:#e85846;
+    position: relative;
+    margin: auto;
+    width: 40%;
+    height: auto;
+}
+
+
+#container {
+-moz-column-width: 200px;
+-webkit-column-width: 200px;
+column-width: 200px;
+}
